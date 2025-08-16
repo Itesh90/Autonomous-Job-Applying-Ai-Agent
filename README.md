@@ -222,6 +222,3 @@ MIT License - see LICENSE file for details
 - Selenium and Playwright teams
 - All open-source contributors
 
----
-
-**Made with ❤️ by the AI Job Agent Team**
